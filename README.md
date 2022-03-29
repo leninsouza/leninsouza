@@ -3,7 +3,7 @@
  <img align="center" alt="Fidd1" height="17" width="17" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8e811100-31c0-4250-9e5f-3b7f852a7771/d92uaik-fdada08f-ca15-4b8f-a655-c41f258bcc8f.png/v1/fill/w_1280,h_1280,strp/dark_red_planet_png_by_breezyxox_d92uaik-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzhlODExMTAwLTMxYzAtNDI1MC05ZTVmLTNiN2Y4NTJhNzc3MVwvZDkydWFpay1mZGFkYTA4Zi1jYTE1LTRiOGYtYTY1NS1jNDFmMjU4YmNjOGYucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.OEsOVgHKAbbrs4wnFn871Ed4JBdm23mz0-IqAaIF2-o"/> I’m currently learning: ECMAScript
  
  <img align="center" alt="Fidd2" height="17" width="17" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8e811100-31c0-4250-9e5f-3b7f852a7771/d92uaik-fdada08f-ca15-4b8f-a655-c41f258bcc8f.png/v1/fill/w_1280,h_1280,strp/dark_red_planet_png_by_breezyxox_d92uaik-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzhlODExMTAwLTMxYzAtNDI1MC05ZTVmLTNiN2Y4NTJhNzc3MVwvZDkydWFpay1mZGFkYTA4Zi1jYTE1LTRiOGYtYTY1NS1jNDFmMjU4YmNjOGYucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.OEsOVgHKAbbrs4wnFn871Ed4JBdm23mz0-IqAaIF2-o"/> Contact: lenin.kazama@gmail.com
--->
+
  
  <br>
  <!-- GitHub Stats -->
