@@ -21,10 +21,6 @@
  
  ##
  
- <!-- League of Legends acc -->
- <div>
-    
- </div
  
  
  
