@@ -20,7 +20,7 @@
   <img align="center" alt="Lenin-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
   <img align="center" alt="Lenin-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
   <img align="center" alt="Lenin-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> 
-   <img align="right" alt="skull2" height=99 width="109" src="https://i.pinimg.com/originals/63/bd/71/63bd71fc80e0929fd045ab130472fe2e.gif"/>
+   <img align="right" alt="skull2" height=97 width="109" src="https://i.pinimg.com/originals/63/bd/71/63bd71fc80e0929fd045ab130472fe2e.gif"/>
  </div> 
  
  ##
