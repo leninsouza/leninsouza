@@ -17,7 +17,7 @@
   <img align="center" alt="Lenin-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
   <img align="center" alt="Lenin-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
   <img align="center" alt="Lenin-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> 
-   <img align="right" alt="Fidd3" height=100 width="110" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d0f3c699-d51b-432c-8d96-e146ce832392/ddowjih-726e3727-2eae-417a-a410-efe59edcfc53.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2QwZjNjNjk5LWQ1MWItNDMyYy04ZDk2LWUxNDZjZTgzMjM5MlwvZGRvd2ppaC03MjZlMzcyNy0yZWFlLTQxN2EtYTQxMC1lZmU1OWVkY2ZjNTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9Yfb4JcWwFKTjP_o6JjWDcgyZxOGUrCO21eh8E4DoMQ"/>
+   <img align="right" alt="skull" height=100 width="110" src="https://i.pinimg.com/originals/63/bd/71/63bd71fc80e0929fd045ab130472fe2e.gif"/>
  </div> 
  
  ##
