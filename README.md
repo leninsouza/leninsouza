@@ -5,7 +5,7 @@
  
 
   Bachelor of Business Administration at Federal University of Rio Grande - RS <br>
-   &nbsp; August 2018 - Currently
+   &nbsp; August 2018 - Present
  
   <img align="center" alt="loading" height="17" width="17" src="https://thumbs.gfycat.com/JampackedPaltryCoral-size_restricted.gif"/> Learning: JavaScript
     
